@@ -16,6 +16,8 @@ This project is an interactive Power BI dashboard created to analyze Motorola sa
 ## Dashboard Preview
 See the uploaded dashboard screenshot in this repository.
 
+![Dashboard Screenshot](motorola27.png)
+
 ## Author
 Minakshi Jirati
 Aspiring Data Analyst
